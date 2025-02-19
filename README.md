@@ -1,0 +1,1 @@
+This repository showcases a subtle bug in Scala related to the interaction between auxiliary constructors and method overriding. The `MyClass` example demonstrates how overriding a method can lead to unexpected behavior if not handled carefully with auxiliary constructors.  The provided solution offers a clear explanation and a corrected implementation.
